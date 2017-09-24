@@ -2,13 +2,8 @@ from flask import Flask
 from flask_sqlalchemy import SQLAlchemy
 import config
 
-# import config_example
-
 app = Flask(__name__)
 app_config = config.runtime_config("dev")
-
-#app_coonfig = config.example.runtime_config("dev")
-
 app.config.from_object(app_config)
 db = SQLAlchemy(app)
 
