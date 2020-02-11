@@ -43,7 +43,7 @@ dask==0.14.0
 dataset==0.8.0
 decorator==4.0.11
 dectate==0.13
-Django==1.11b1
+Django==1.11.28
 django-blog-zinnia==0.18.1
 django-bootstrap-form==3.2.1
 django-classy-tags==0.8.0
