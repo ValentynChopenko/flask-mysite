@@ -200,7 +200,7 @@ pyflakes==1.5.0
 pyflakes3k==0.4.3
 pygal==2.3.1
 pygeoip==0.3.2
-Pygments==2.2.0
+Pygments==2.7.4
 pygobject==3.12.0
 Pykka==1.2.1
 pymc==2.3.6
