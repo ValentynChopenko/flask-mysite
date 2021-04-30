@@ -239,7 +239,7 @@ requests-cache==0.4.13
 requests-file==1.4.1
 requests-ftp==0.3.1
 requests-oauthlib==0.8.0
-rsa==3.4.2
+rsa==4.7
 ruffus==2.6.3
 scikit-image==0.12.3
 scikit-learn==0.18.1
