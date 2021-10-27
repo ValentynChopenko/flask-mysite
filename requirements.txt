@@ -39,7 +39,7 @@ cvxopt==1.1.8
 cycler==0.10.0
 cyordereddict==1.0.0
 Cython==0.25.2
-dask==0.14.0
+dask==2021.10.0
 dataset==0.8.0
 decorator==4.0.11
 dectate==0.13
