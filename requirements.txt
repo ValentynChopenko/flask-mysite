@@ -119,7 +119,7 @@ jupyter-client==5.0.0
 jupyter-console==5.1.0
 jupyter-core==4.3.0
 Logbook==1.0.0
-lxml==3.7.3
+lxml==4.6.5
 Mako==1.0.6
 marisa-trie==0.7.2
 Markdown==2.6.8
