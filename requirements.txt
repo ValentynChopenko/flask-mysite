@@ -35,7 +35,7 @@ CoolProp==6.0.0
 coverage==4.3.4
 cryptography==1.7.2
 cssselect==1.0.1
-cvxopt==1.1.8
+cvxopt==1.2.7
 cycler==0.10.0
 cyordereddict==1.0.0
 Cython==0.25.2
