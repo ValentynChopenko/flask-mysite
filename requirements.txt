@@ -172,7 +172,7 @@ pep8==1.7.0
 persistent==4.2.2
 pexpect==4.2.1
 pickleshare==0.7.4
-Pillow==4.0.0
+Pillow==9.0.0
 Pint==0.7.2
 plotly==2.0.2
 portend==1.8
