@@ -93,7 +93,7 @@ google-api-python-client==1.6.2
 grappelli-safe==0.4.5
 greenlet==0.4.12
 grokcore.component==2.7
-html5lib==0.9999999
+html5lib==0.999999999
 http-parser==0.8.3
 httplib2==0.10.3
 hupper==0.4.2
