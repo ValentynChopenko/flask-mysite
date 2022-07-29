@@ -129,7 +129,7 @@ matplotlib==2.0.0
 mechanize==0.2.5
 Mezzanine==4.2.2
 mimerender==0.6.0
-mistune==0.7.3
+mistune==2.0.3
 mlpy==3.5.0
 mock==2.0.0
 more-itertools==2.5.0
